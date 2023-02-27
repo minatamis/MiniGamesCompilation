@@ -1,0 +1,15 @@
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\bin\Debug\net6.0\MiniGamesCompilation.exe
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\bin\Debug\net6.0\MiniGamesCompilation.deps.json
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\bin\Debug\net6.0\MiniGamesCompilation.runtimeconfig.json
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\bin\Debug\net6.0\MiniGamesCompilation.dll
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\bin\Debug\net6.0\MiniGamesCompilation.pdb
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.csproj.AssemblyReference.cache
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.AssemblyInfoInputs.cache
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.AssemblyInfo.cs
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.csproj.CoreCompileInputs.cache
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.dll
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\refint\MiniGamesCompilation.dll
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.pdb
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\MiniGamesCompilation.genruntimeconfig.cache
+F:\Coders\C#\MiniGamesCompilation\MiniGamesCompilation\obj\Debug\net6.0\ref\MiniGamesCompilation.dll
